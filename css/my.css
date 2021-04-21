@@ -1,0 +1,10 @@
+.nav1 ul {
+    position: absolute;
+    display: none;
+  }
+  
+   .nav1 li:hover ul {
+    display: block;
+	z-index: 10;
+  }
+ 

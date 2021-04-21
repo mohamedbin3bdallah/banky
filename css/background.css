@@ -1,0 +1,33 @@
+body
+{
+	background-image: url(../uploads/background.jpg);
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: 100% 100%;
+	color: blue;
+}
+
+a
+{
+	color: blue;
+}
+
+#index
+{
+	background-color: rgba(255, 255, 255, 0.76);
+	color: black;
+}
+
+.index-layout
+{
+	background-color: rgba(169, 168, 184, 0.5);
+	border-radius: 30px;
+	min-height: 450px;
+	height: auto;	
+}
+
+.index-label
+{
+	font-size: 150%;
+	color: green;
+}
